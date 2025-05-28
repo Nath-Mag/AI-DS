@@ -13,7 +13,7 @@ A comprehensive exploratory data analysis (EDA) of census data, involving:
 - Data visualisation using `matplotlib` and `seaborn`
 - Skills: Pandas, data wrangling, visualisation
 
-**Notebook:** (DS_Census_Project.ipynb)
+### [Census Data Analysis Notebook](DS_Census_Project.ipynb)
 
 ---
 
@@ -23,7 +23,7 @@ A foundational deep learning project using TensorFlow/Keras to classify handwrit
 - Performance evaluation with confusion matrix and classification report
 - Visualisation of predictions
 
-**Notebook:** `MNIST_Digit_Classification.ipynb`
+### [MNIST Digit Classification Notebook](MNIST_Digit_Classification.ipynb)
 
 ---
 
@@ -33,7 +33,7 @@ This project compares traditional ML and deep learning models for binary sentime
 - LSTM and GRU with GloVe embeddings
 - Evaluation using accuracy, F1-score, precision, recall
 
-**Notebook:** `Sentiment_Analysis.ipynb`
+### [Sentiment Analysis Notebook](Sentiment_Analysis.ipynb)
 
 | Model               | Accuracy | Avg F1-Score |
 |--------------------|----------|--------------|
@@ -55,8 +55,4 @@ This project compares traditional ML and deep learning models for binary sentime
 
 ## 📌 License
 This repository is for educational and demonstrative purposes.
-
-### 📊 [Census Data Analysis](DS_Census_Project.ipynb)
-### 🔢 [MNIST Digit Classification](MNIST_Digit_Classification.ipynb)
-### 💬 [Sentiment Analysis](Sentiment_Analysis.ipynb)
 
