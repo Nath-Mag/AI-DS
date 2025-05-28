@@ -13,7 +13,7 @@ A comprehensive exploratory data analysis (EDA) of census data, involving:
 - Data visualisation using `matplotlib` and `seaborn`
 - Skills: Pandas, data wrangling, visualisation
 
-**Notebook:** `DS_Census_Project.ipynb`
+**Notebook:** (DS_Census_Project.ipynb)
 
 ---
 
@@ -55,3 +55,8 @@ This project compares traditional ML and deep learning models for binary sentime
 
 ## 📌 License
 This repository is for educational and demonstrative purposes.
+
+### 📊 [Census Data Analysis](DS_Census_Project.ipynb)
+### 🔢 [MNIST Digit Classification](MNIST_Digit_Classification.ipynb)
+### 💬 [Sentiment Analysis](Sentiment_Analysis.ipynb)
+
