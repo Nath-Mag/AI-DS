@@ -33,14 +33,14 @@ This project compares traditional ML and deep learning models for binary sentime
 - LSTM and GRU with GloVe embeddings
 - Evaluation using accuracy, F1-score, precision, recall
 
-### [Sentiment Analysis Notebook](Sentiment_Analysis.ipynb)
-
 | Model               | Accuracy | Avg F1-Score |
 |--------------------|----------|--------------|
 | Logistic Regression| 89%      | 89.5%        |
 | Naïve Bayes        | 88%      | 88%          |
 | LSTM + GloVe       | 88%      | 87.5%        |
 | GRU + GloVe        | 88%      | 88%          |
+
+### [Sentiment Analysis Notebook](Sentiment_Analysis.ipynb)
 
 ---
 
